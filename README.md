@@ -1,4 +1,5 @@
 # Final_Project_Mod_5
+Link to my Presentation: https://docs.google.com/presentation/d/1xIKQeRhfjv2uzAHZgmz35gf8qtI8Dl9YfbgERCIbzEw/edit?usp=sharing
 ## Introduction
 In this project, my goal was to predict future S&P 500 index values to help investors guide their investments. The S&P 500 is an index that is comprised of the stock prices of the top 500 companies (weighted by company size) and divided by a proprietary divisor. Throughout American history, most investors have looked at the Dow Jones Industrial Average and the Dow Jones Transportation Average to make investment decisions, now the S&P 500 has taken their spot due to the amount of companies that are included. The S&P 500 is a more wholesome index that is a better representation of our economy as a whole. My project follows the OSEMI Data Science Process and is be formatted in the following manor:
  1. Obtained S&P 500 Data
@@ -26,9 +27,10 @@ After testing all of my models with a few different iterations of hyper paramete
 ### Future Steps
 My next steps for this model is to 
 1) Include NLP Sentiment Analysis to see if average daily news sentiment in the finance and business sections of the New York Times attribute to the S&P moving in an up or down 
-2) Do further research on tunning hyperparameters on a LSTM Model to help lower the RMSE and make more accurate predictions
+2) Do further research on tunning hyperparameters on a LSTM Model to help lower the RMSE while improving accuracy
+3) Run this model on data from the Dow Jones Industrial Average and Dow Jones Transit Average 
 
-Link to my Presentation: https://docs.google.com/presentation/d/1xIKQeRhfjv2uzAHZgmz35gf8qtI8Dl9YfbgERCIbzEw/edit?usp=sharing
+
 
 
 

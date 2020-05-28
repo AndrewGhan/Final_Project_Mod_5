@@ -1,7 +1,7 @@
 # Final_Project_Mod_5
 Link to my Presentation: https://docs.google.com/presentation/d/1xIKQeRhfjv2uzAHZgmz35gf8qtI8Dl9YfbgERCIbzEw/edit?usp=sharing
 ## Introduction
-In this project, my goal was to predict future S&P 500 index values to help investors guide their investments. The S&P 500 is an index that is comprised of the stock prices of the top 500 companies (weighted by company size) and divided by a proprietary divisor. Throughout American history, most investors have looked at the Dow Jones Industrial Average and the Dow Jones Transportation Average to make investment decisions, now the S&P 500 has taken their spot due to the amount of companies that are included. The S&P 500 is a more wholesome index that is a better representation of our economy as a whole. My project follows the OSEMI Data Science Process and is be formatted in the following manor:
+In this project, my goal is to predict future S&P 500 index values to help investors guide their investments. The S&P 500 is an index that is comprised of the stock prices of the top 500 companies (weighted by company size) and divided by a proprietary divisor. Throughout American history, most investors have looked at the Dow Jones Industrial Average and the Dow Jones Transportation Average to make investment decisions. Now the S&P 500 has taken their spot due to the amount of companies that are included. The S&P 500 is a more wholesome index that is a better representation of our economy as a whole. My project follows the OSEMI Data Science Process and is be formatted in the following manor:
  1. Obtained S&P 500 Data
  2. Cleaned my data 
  3. Explored my data to find trends 
@@ -12,7 +12,7 @@ In this project, my goal was to predict future S&P 500 index values to help inve
 ---------------------------------------------------------
 ## Proceedure
 ### Download-Clean-Explore
-I obatained my Data from https://finance.yahoo.com/quote/%5EGSPC/history?p=%5EGSPC as a CSV file. I downloded index historical information from 1980-2019. After I got my information into my notebook explored my data, in my data I have 10,087 rows and 7 columns before doing any data preperation. Then I relized my data had random days missing in the data. To remedy this problem, first I formated the Date colunm to DateTime and I set it as my index, then, I resampled my data to months. Then, I calculated my opening index price's rolling mean, rolling standard mean, and percent change, then ran basic visualizations to find trends in my data. 
+I obatained my Data from https://finance.yahoo.com/quote/%5EGSPC/history?p=%5EGSPC as a CSV file. I downloded S&P 500 index historical information from 1980-2019. After I got my information into my notebook, I explored my data, in my data I have 10,087 rows and 7 columns before doing any data preperation. Then I relized my data had random days missing in the data. To remedy this problem, first I formated the Date colunm to DateTime and I set it as my index, then, I resampled my data to months. Then, I calculated my opening index price's rolling mean, rolling standard mean, and percent change, and ran basic visualizations to find trends in my data. 
 
 ![alt text](https://github.com/AndrewGhan/Final_Project_Mod_5/blob/master/Final_Project_Pictures/Screen%20Shot%202020-05-27%20at%203.23.05%20PM.png)
 

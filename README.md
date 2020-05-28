@@ -30,10 +30,15 @@ My next steps for this model is to
 1) Include NLP Sentiment Analysis to see if average daily news sentiment in the finance and business sections of the New York Times attribute to the S&P moving in an up or down.
 2) Run this model on data from the Dow Jones Industrial Average and Dow Jones Transit Average. 
 3) Create an app encompassing predictions for all major indices.
+
 ![alt text](https://github.com/AndrewGhan/Final_Project_Mod_5/blob/master/Final_Project_Pictures/Screen%20Shot%202020-05-27%20at%203.23.05%20PM.png)
+
 ![alt text](https://github.com/AndrewGhan/Final_Project_Mod_5/blob/master/Final_Project_Pictures/Screen%20Shot%202020-05-27%20at%203.07.13%20PM.png)
+
 ![alt text](https://github.com/AndrewGhan/Final_Project_Mod_5/blob/master/Final_Project_Pictures/Screen%20Shot%202020-05-27%20at%203.06.59%20PM.png)
+
 ![alt text](https://github.com/AndrewGhan/Final_Project_Mod_5/blob/master/Final_Project_Pictures/Screen%20Shot%202020-05-27%20at%203.06.44%20PM.png)
+
 ![alt text](https://github.com/AndrewGhan/Final_Project_Mod_5/blob/master/Final_Project_Pictures/Screen%20Shot%202020-05-27%20at%203.06.35%20PM.png)
 
 

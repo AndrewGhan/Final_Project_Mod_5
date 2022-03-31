@@ -1,7 +1,7 @@
 # Final_Project_Mod_5
 Link to my Presentation: https://docs.google.com/presentation/d/1xIKQeRhfjv2uzAHZgmz35gf8qtI8Dl9YfbgERCIbzEw/edit?usp=sharing
 ## Introduction
-In this project, my goal is to predict future S&P 500 index values to help investors guide their investments. The S&P 500 is an index that is comprised of the stock prices of the top 500 companies (weighted by company size) and divided by a proprietary divisor. Throughout American history, most investors have looked at the Dow Jones Industrial Average and the Dow Jones Transportation Average to make investment decisions. Now the S&P 500 has taken their spot due to the amount of companies that are included. The S&P 500 is a more wholesome index that is a better representation of our economy as a whole. My project follows the OSEMI Data Science Process and is be formatted in the following manor:
+In this project, my goal is to predict future S&P 500 index values to help investors guide their investments. The S&P 500 is an index that is comprised of the stock prices of the top 500 companies (weighted by company size) and divided by a proprietary divisor. Throughout American history, most investors have looked at the Dow Jones Industrial Average and the Dow Jones Transportation Average to make investment decisions. Now the S&P 500 has taken that spot due to the amount of companies that are included. The S&P 500 is a more wholesome index that is a better representation of our economy as a whole. My project follows the OSEMI Data Science Process and is be formatted in the following manor:
  1. Obtained S&P 500 Data
  2. Cleaned my data 
  3. Explored my data to find trends 

@@ -16,7 +16,7 @@ I obatained my Data from https://finance.yahoo.com/quote/%5EGSPC/history?p=%5EGS
 
 ![alt text](https://github.com/AndrewGhan/Final_Project_Mod_5/blob/master/Final_Project_Pictures/Screen%20Shot%202020-05-27%20at%203.23.05%20PM.png)
 
-What I found was that the S&P 500 has grown by 2771% in the past 40 years. In other words, if you had invested $100,000 dollars in an S&P ETF 40 years ago you would have made $2,771,000. After I created these visulaizations, I used the original dataset and created a dataframe resampled to days and I filled the missing values with the value that came before it. 
+What I found was that the S&P 500 has grown by 3675% in the past 40 years. In other words, if you had invested $100,000 ->  dollars in an S&P ETF 40 years ago you would have made $3,775,000. After I created these visulaizations, I used the original dataset and created a dataframe resampled to days and I filled the missing values with the value that came before it. 
 ### Data Preprocessing 
 After properly setting up and exploring my data, I created my train test split and formated my variables as scaled 3D vectors in sets of 60 days so that they could be pased through my model. How I formatted my data allows the model to predict 1 day ahead using 60 previous days of data. 
 ### Modeling
